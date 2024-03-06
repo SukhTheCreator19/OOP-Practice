@@ -33,7 +33,7 @@
 
 ## class methods are alternative constructors
 
-##static methods dont pass the intances nor the class but they behave like class methods.  They are used to create utility functions that dont need access to the class and they are used more for logic than anything else.
+##static methods dont pass the intances nor the class but they behave like class methods.  They are used to create utility functions that dont need access to the class and they are used more for logic than anything else. These are used when we want a function to tell us something but the function itself doesnt need to know anything about the class.
 # class Employee:
 
 #   num_of_emps = 0
